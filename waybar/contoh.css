@@ -1,0 +1,53 @@
+@define-color base   #1B2C41; 
+@define-color mantle #2A415E;
+@define-color crust  #193454;
+
+@define-color text     #cad3f5;
+@define-color subtext0 #a5adcb;
+@define-color subtext1 #b8c0e0;
+
+@define-color surface0 #354E68;
+@define-color surface1 #4C6784;
+@define-color surface2 #446589;
+
+@define-color overlay0 #586A81;
+@define-color overlay1 #4A6383;
+@define-color overlay2 #486893;
+
+@define-color blue      #8aadf4;
+@define-color lavender  #b7bdf8;
+@define-color sapphire  #7dc4e4;
+@define-color sky       #91d7e3;
+@define-color teal      #8bd5ca;
+@define-color green     #a6da95;
+@define-color yellow    #eed49f;
+@define-color peach     #f5a97f;
+@define-color maroon    #ee99a0;
+@define-color red       #ed8796;
+@define-color mauve     #c6a0f6;
+@define-color pink      #f5bde6;
+@define-color flamingo  #f0c6c6;
+@define-color dye       #24405A;
+
+@define-color linen     #F3EADF;
+@define-color afblue    #557A8F;
+@define-color rose      #976359;
+@define-color indigo    #26496F;
+@define-color grey      #6A7D90;
+@define-color yinmin    #354E68;
+@define-color blueox    #0F1C2E;
+@define-color yinmax    #1B2C41;
+@define-color brown     #4A3B3B;
+@define-color sand      #E2C9B5;
+@define-color wenge     #594C56;
+@define-color frost1    #5e81ac;
+@define-color frost2    #81a1c1;
+@define-color sblue     #6564DB;
+@define-color lblue     #175676;
+@define-color snow1     #eceff4;
+@define-color snow2     #d8dee9;
+@define-color snow3     #e5e9f0;
+@define-color nord0     #2e3440;
+@define-color nord1     #3b4252;
+@define-color nord2     #434c5e;
+@define-color nord3     #4c566a;
